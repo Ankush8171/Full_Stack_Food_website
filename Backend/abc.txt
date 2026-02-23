@@ -1,0 +1,3 @@
+// npm i mongoose jsonwebtoken express bcrypt dotenv body-parser stripe multer nodemon validator 
+
+type:module
